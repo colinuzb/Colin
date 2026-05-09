@@ -60,6 +60,9 @@ body {
   text-decoration: none;
   font-weight: 800;
 }
+.logo:hover{
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
 
 .navbar a {
   font-size: 1.80rem;

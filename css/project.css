@@ -52,12 +52,18 @@ body{
   text-decoration: none;
   font-weight: 800;
 }
+.logo:hover{
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
 .navbar a{
   font-size: 1.80rem;
   color: white;
   text-decoration: none;
   font-weight: 600;
   margin-left: 2.5rem;
+}
+.navbar a:hover {
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
 }
 #check{
   display: none;
